@@ -24,7 +24,7 @@ require (
 	go.opentelemetry.io/otel v1.17.0
 	go.opentelemetry.io/otel/sdk v1.17.0
 	golang.org/x/exp v0.0.0-20230626212559-97b1e661b5df
-	golang.org/x/exp/event v0.0.0-20220218215828-6cf2b201936e
+	golang.org/x/exp/event d852ddb80c63
 	golang.org/x/mod v0.12.0
 	golang.org/x/oauth2 v0.8.0
 	golang.org/x/sync v0.3.0
