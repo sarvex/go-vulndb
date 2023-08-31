@@ -27,7 +27,7 @@ require (
 	golang.org/x/exp/event v0.0.0-20220218215828-6cf2b201936e
 	golang.org/x/mod v0.12.0
 	golang.org/x/oauth2 v0.8.0
-	golang.org/x/sync v0.2.0
+	golang.org/x/sync v0.3.0
 	golang.org/x/time v0.3.0
 	golang.org/x/tools v0.9.3
 	google.golang.org/api v0.126.0
